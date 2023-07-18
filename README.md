@@ -12,7 +12,7 @@ of dust or smoke particles, and the growth of
 some crystals. Perhaps the first serious study
 of such processes was made by Witten, T.A.
 and Sander, L. M. and published by them in
-1981 
+1981.
 
 **For more details, please read the report provided in folder `./documents`.**
 
