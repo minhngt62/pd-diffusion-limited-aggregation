@@ -20,14 +20,15 @@ and Sander, L. M. and published by them in
   <img src="https://fusefactory.github.io/openfuse/images_posts/dla_cover.png" />
 </p>
 
-## Parallel and Distributed Programming - DSAI K65: Group 02
+---
+
+## Parallel and Distributed Programming
 1. Nguyễn Tống Minh (Email: minh.nt204885@sis.hust.edu.vn)
 2. Nguyễn Xuân Thái Hòa
 3. Nguyễn Công Đạt
 4. Hoàng Xuân Việt
 5. Lý Nhật Nam
 
----
 To reproduce the experiments in notebooks, we suggest using the notebook `./experiment.ipynb` and tuning the parameters inside the source code `./DLA.c` for different experiments. For more details, please follow the section below.
 
 ## Guidelines 
@@ -41,4 +42,3 @@ To reproduce the experiments in notebooks, we suggest using the notebook `./expe
    Change the `<path to uploaded repo>` into the path of the folder that contains your uploaded files and folders in Google Drive.
 4. Run sequentially the notebook.
 5. Results are shown at the last cell and saved to the folder `./output`.
-
